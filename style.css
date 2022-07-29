@@ -31,13 +31,12 @@ body {
 	font-family: var(--ff-primary);
 	background-color: var(--bg-body);
 	font-size: 1.6rem;
-	width: 100vw;
-	overflow-x: hidden;
+	width: 100%;
 }
 
 .page {
 	margin: 0 auto;
-	min-width: 36rem;
+	min-width: 32rem;
 }
 
 section {
@@ -82,7 +81,7 @@ main {
 	display: grid;
 	gap: 3.2rem;
 	margin: 0 auto;
-	width: 32rem;
+	width: 30rem;
 	
 }
 

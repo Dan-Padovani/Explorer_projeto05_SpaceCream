@@ -33,6 +33,13 @@ I had the oportunity to practice and study:
 	<img alt="desktop version of website" src="./images/desktop.png" width="600px">
 </p>
 
+### Tablet and Mobile
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+	<img alt="tablet version" src="./images/" width="500px">
+	<img alt="mobile version" src="./images/MobilePomofocus2.0.gif" width="300px">
+</p>
+
 ---
 
 ### :clipboard: How To Use
