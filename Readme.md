@@ -30,14 +30,14 @@ I had the oportunity to practice and study:
 ### Desktop
 
 <p align="center">
-	<img alt="desktop version of website" src="./images/desktop.png" width="600px">
+	<img alt="desktop version of website" src="./images/desktopSpaceCream.png" width="600px">
 </p>
 
 ### Tablet and Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-	<img alt="tablet version" src="./images/" width="500px">
-	<img alt="mobile version" src="./images/MobilePomofocus2.0.gif" width="300px">
+	<img alt="tablet version" src="./images/ipadSpaceCream.gif" width="500px">
+	<img alt="mobile version" src="./images/mobileSpaceCream.png" width="300px">
 </p>
 
 ---
