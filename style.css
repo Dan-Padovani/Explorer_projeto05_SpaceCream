@@ -86,7 +86,7 @@ main {
 }
 
 main div:nth-child(5),
-main div:nth-child(7),
+main div:nth-child(6),
 footer {
 	display: none;
 }
